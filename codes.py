@@ -25,6 +25,7 @@ def n_sum(nums, target, n, result, results):
             if i == 0 or (i > 0 and nums[i - 1] != nums[i]):
                 n_sum(nums[i + 1:], target - nums[i], n - 1, result + [nums[i]], results)
 
+# Example for 4 sum problem
 def four_sum(nums, target):
     nums.sort()
     results = []
