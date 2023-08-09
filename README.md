@@ -5,7 +5,7 @@
 This repository contains an implementation of the N-sum algorithm. It's designed to find all unique combinations of N numbers that sum to a specific target value.
 
 ## Application
-The algorithm has various applications, including investment portfolio optimization, computational geometry, and more. [Here's a detailed example of its usage in financial investment](#).
+The algorithm has various applications, including investment portfolio optimization, computational geometry, and more. 
 
 ## How to Use
 Import the script and call the `n_sum` function with the required parameters.
